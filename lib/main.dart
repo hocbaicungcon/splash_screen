@@ -32,7 +32,7 @@ class SplashScr extends StatelessWidget {
     return Container(
       child: Center(
         child: Text(
-          'RẮN SĂN MỒI'.toUpperCase(),
+          'SPLASH SCREEN',
           textDirection: TextDirection.ltr,
           style: TextStyle(
               fontSize: 50,
