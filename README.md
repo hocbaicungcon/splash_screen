@@ -1,8 +1,6 @@
 # splash_screen
 
-# flutter_jokes
-
-A new Flutter project.
+Flutter Splash Screen - Navigate to a new screen, and clear all the previous screens
 
 ## Getting Started
 
